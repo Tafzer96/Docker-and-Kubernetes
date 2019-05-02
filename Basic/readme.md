@@ -1,5 +1,5 @@
 # Docker Basic
-Simple Example with Node Container 
+Simple Example with a Node JS  Container 
 
 ## Getting Started
 
